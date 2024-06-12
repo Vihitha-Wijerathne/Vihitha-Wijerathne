@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, .NET, ORACLE**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Vihitha-Ravindu/Vihitha-Ravindu/issues)**
 
 ⚡ Fun fact **The term "bug" in software engineering originated from a real moth causing a malfunction in an early computer in 1947**
 
