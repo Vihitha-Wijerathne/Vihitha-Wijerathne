@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Space information website**
  
- 🌱 I’m currently learning **Docker, ORACLE**
+ 🌱 I’m currently learning **Docker, .NET, ORACLE**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The term "bug" in software engineering originated from a real moth causing a malfunction in an early computer in 1947**
 
  </div>
  
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,android-studio,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,kotlin,javascript,php,express,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode,androidstudio,eclipse,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,redux,python,kotlin,javascript,php,express,opencv,postman,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
