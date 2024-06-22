@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vihitha-Ravindu.Vihitha-Ravindu" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vihitha-Wijerathne.Vihitha-Wijerathne" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vihitha+Wijerathne!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, .NET, ORACLE**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Vihitha-Ravindu/Vihitha-Ravindu/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Vihitha-Wijerathne/Vihitha-Wijerathne/issues)**
 
 ⚡ Fun fact **The term "bug" in software engineering originated from a real moth causing a malfunction in an early computer in 1947**
 
@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vihitha-Ravindu/Vihitha-Ravindu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vihitha-Wijerathne/Vihitha-Wijerathne/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
