@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Space information website**
+ 🔭 I’m currently working on **UAV Path Planning Algorithm**
  
- 🌱 I’m currently learning **Docker, .NET, ORACLE**
+ 🌱 I’m currently learning **Deep Learning, .NET, ORACLE**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Vihitha-Wijerathne/Vihitha-Wijerathne/issues)**
 
