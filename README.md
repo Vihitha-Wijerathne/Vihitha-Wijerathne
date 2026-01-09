@@ -10,11 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **UAV Path Planning Algorithm**
- 
- 🌱 I’m currently learning **Deep Learning, .NET, ORACLE**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Vihitha-Wijerathne/Vihitha-Wijerathne/issues)**
+ 🔭 I’m currently working on **Starting a new Full-Stack coding project**
 
 ⚡ Fun fact **The term "bug" in software engineering originated from a real moth causing a malfunction in an early computer in 1947**
 
